@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.idea/
+
+# selenium / browser binaries / downloads
+/tmp/
+*.log
+resume_files/*.pdf
