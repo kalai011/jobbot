@@ -1,0 +1,10 @@
+python-telegram-bot==20.4
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+selenium
+undetected-chromedriver
+APScheduler
+python-dotenv
+openai
